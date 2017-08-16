@@ -1,0 +1,9 @@
+{
+  "customers": [
+    {"id":"1","name":"Riksa Meidy","email":"rmk@gmail.com","age":22},
+    {"id":"2","name":"Gugun Guntur","email":"gg@gmail.com","age":22},
+    {"id":"3","name":"Amalya Citra","email":"acp@gmail.com","age":20},
+    {"id":"4","name":"Anita Auliani","email":"aa@gmail.com","age":21},
+    {"id":"5","name":"Melati Suci","email":"mcp@gmail.com","age":21}
+  ]
+}
